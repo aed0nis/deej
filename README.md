@@ -5,3 +5,6 @@ I included a mute button and led light. When deej starts the mute state is recor
 
 ## Pre-requisites
 - `mic` has to be the last number in the config.yaml
+
+## Schematic
+![image](https://user-images.githubusercontent.com/10181188/140986428-fcf6894e-48ae-4b84-94eb-9f153a506d85.png)
